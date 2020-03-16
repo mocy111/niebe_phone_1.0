@@ -1,0 +1,19 @@
+.long
+{
+    max-height: 500px;
+   
+}
+.phone
+{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(4.jpg)center/cover no-repeat fixed;
+}
+.spot
+{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(6.jpg)center/cover no-repeat fixed;
+
+}
+.bg-d
+{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(7.jpg)center/cover no-repeat fixed;
+
+}
